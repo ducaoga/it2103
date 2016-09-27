@@ -1,10 +1,8 @@
 <?php
 
 echo "my name is gail";
-$x = 10;
-while($x <0){
+for($x=10;$x>0;$x--){
 	echo "I love you!";
-	$x--;
 	}
 
 ?>
