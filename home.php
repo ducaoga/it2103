@@ -4,6 +4,7 @@
 </head>
 <body>
 	<button class='btn btn-danger'>WELCOME MAE sweety</button>
+	<i class="glyphicon glyphicon-remove"></i>
 
 
 </body>
